@@ -1,5 +1,5 @@
 # mall-h5
-
+author:vivi
 ## Project setup
 ```
 npm install
